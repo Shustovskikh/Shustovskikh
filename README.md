@@ -18,7 +18,7 @@ I build **web applications, automate workflows, and create intelligent drone sol
 - Data analysis & visualization  
 
 ## 🚀 Featured Projects  
-🔹 [**Cloud Storage Service**](https://github.com/Shustovskikh/cloud_storage_service) – Fullstack cloud storage platform using Django & React. | 🌍 [Cloud Storage Service](https://194.67.84.170/) 
+🔹 [**Cloud Storage Service**](https://github.com/Shustovskikh/cloud_storage_service) – Fullstack cloud storage platform using Django & React | 🌍 [Cloud Storage Service](https://194.67.84.170/)
 🔹 [**Drone Programming Suite**](https://github.com/Shustovskikh/g_unmanned_aerial_vehicle) – Python-based UAV automation & control system.  
 
 ## 📈 Technologies I Work With  
